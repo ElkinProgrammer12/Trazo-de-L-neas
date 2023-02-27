@@ -1,0 +1,11 @@
+C:\Users\Elkin\source\repos\Linear\Linear\obj\Debug\Linear.csproj.AssemblyReference.cache
+C:\Users\Elkin\source\repos\Linear\Linear\obj\Debug\Linear.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elkin\source\repos\Linear\Linear\obj\Debug\Linear.Form1.resources
+C:\Users\Elkin\source\repos\Linear\Linear\obj\Debug\Linear.Properties.Resources.resources
+C:\Users\Elkin\source\repos\Linear\Linear\obj\Debug\Linear.csproj.GenerateResource.cache
+C:\Users\Elkin\source\repos\Linear\Linear\obj\Debug\Linear.csproj.CoreCompileInputs.cache
+C:\Users\Elkin\source\repos\Linear\Linear\bin\Debug\Linear.exe.config
+C:\Users\Elkin\source\repos\Linear\Linear\bin\Debug\Linear.exe
+C:\Users\Elkin\source\repos\Linear\Linear\bin\Debug\Linear.pdb
+C:\Users\Elkin\source\repos\Linear\Linear\obj\Debug\Linear.exe
+C:\Users\Elkin\source\repos\Linear\Linear\obj\Debug\Linear.pdb
