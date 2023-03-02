@@ -31,8 +31,9 @@ namespace Linear
                 double y1 = double.Parse(txt_Y1.Text);
                 double x2 = double.Parse(txt_X2.Text);
                 double y2 = double.Parse(txt_Y2.Text);
-                clsLinea rec = new clsLinea(x1,y1,x2,y2);
-                dibujo.FillRectangle(Brushes.Red, rec.colocaX1(), rec.colocaY1(), rec. colocaX2(), rec.colocaY2());
+                clsLinea rec = new clsLinea(x1, y1, x2, y2);
+                Pen pen = new Pen(Brushes.Red);
+                dibujo.DrawLine(pen, rec.colocaX1(), rec.colocaY1(), rec. colocaX2(), rec.colocaY2());
                 txtContador.Text = Convert.ToString(clsLinea.cuentaLineas());   
             }
             catch
